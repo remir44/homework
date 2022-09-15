@@ -1,0 +1,15 @@
+D:\гикбрейнс\семинары\seminar_C#\first\bin\Debug\net6.0\first.exe
+D:\гикбрейнс\семинары\seminar_C#\first\bin\Debug\net6.0\first.deps.json
+D:\гикбрейнс\семинары\seminar_C#\first\bin\Debug\net6.0\first.runtimeconfig.json
+D:\гикбрейнс\семинары\seminar_C#\first\bin\Debug\net6.0\first.dll
+D:\гикбрейнс\семинары\seminar_C#\first\bin\Debug\net6.0\first.pdb
+D:\гикбрейнс\семинары\seminar_C#\first\obj\Debug\net6.0\first.csproj.AssemblyReference.cache
+D:\гикбрейнс\семинары\seminar_C#\first\obj\Debug\net6.0\first.GeneratedMSBuildEditorConfig.editorconfig
+D:\гикбрейнс\семинары\seminar_C#\first\obj\Debug\net6.0\first.AssemblyInfoInputs.cache
+D:\гикбрейнс\семинары\seminar_C#\first\obj\Debug\net6.0\first.AssemblyInfo.cs
+D:\гикбрейнс\семинары\seminar_C#\first\obj\Debug\net6.0\first.csproj.CoreCompileInputs.cache
+D:\гикбрейнс\семинары\seminar_C#\first\obj\Debug\net6.0\first.dll
+D:\гикбрейнс\семинары\seminar_C#\first\obj\Debug\net6.0\refint\first.dll
+D:\гикбрейнс\семинары\seminar_C#\first\obj\Debug\net6.0\first.pdb
+D:\гикбрейнс\семинары\seminar_C#\first\obj\Debug\net6.0\first.genruntimeconfig.cache
+D:\гикбрейнс\семинары\seminar_C#\first\obj\Debug\net6.0\ref\first.dll
