@@ -37,10 +37,11 @@ while (attempt > 0)
     }
     Console.WriteLine("  Осталось попыток " + attempt);
 }
-if(win)
+if (win)
 {
     Console.WriteLine("  Вы победили, увидимся в следующий раз!");
-}else
+}
+else
 {
     System.Console.WriteLine("  Вы проиграли, секретное число - " + secret_number);
     System.Console.WriteLine("  Попробуйте еще раз :)");
