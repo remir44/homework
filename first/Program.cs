@@ -18,7 +18,7 @@ bool win = false;
 while (attempt > 0)
 {
     Console.Write("Введите число от 1 до 10: ");
-    int number = int.Parse(Console.ReadLine());
+    int number = int.Parse(Console.ReadLine()!);
     if (number > secret_number)
     {
         Console.WriteLine("Секретное число меньше");
