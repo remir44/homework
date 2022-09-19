@@ -1,13 +1,31 @@
-﻿// Первая задача
-Console.WriteLine("Введите число a:");
+﻿// Задача 2:
+// Console.Write("Введите число a:");
+// int a = int.Parse(Console.ReadLine()!);
+// Console.Write("Введите число b:");
+// int b = int.Parse(Console.ReadLine()!);
+// if (a > b)
+// {
+//     Console.WriteLine("Число a = " + a + " максимальное.");
+// }
+// else
+// {
+//     Console.WriteLine("Число b = " + b + " максимальное.");
+// }
+
+// Задача 4:
+Console.Write("Введите число a: ");
 int a = int.Parse(Console.ReadLine()!);
-Console.WriteLine("Введите число b:");
+Console.Write("Введите число b: ");
 int b = int.Parse(Console.ReadLine()!);
-if (a > b)
+Console.Write("Введите число c: ");
+int c = int.Parse(Console.ReadLine()!);
+int max = a;
+if (b > max)
 {
-    Console.WriteLine("Число a = " + a + " максимальное.");
+    max = b;
 }
-else
+if (c > max)
 {
-    Console.WriteLine("Число b = " + b + " максимальное.");
+    max = c;
 }
+Console.WriteLine("Максимальное число = " + max);
